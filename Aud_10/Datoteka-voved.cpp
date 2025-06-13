@@ -81,6 +81,9 @@ int main() {
         e.message();
     }
 
+    // ako e niza od objekti, so for ciklus kreirani, najdobar nacin za da se pecatat site
+    // e da se stavi i--, n-- vo for-ot na krajot
+
 
     return 0;
 }
